@@ -1,8 +1,8 @@
 {
-  "title": "Agency",
-  "name": "startbootstrap-agency",
+  "title": "BTCGPU",
+  "name": "website-btcgpu",
   "version": "4.0.0-beta",
-  "description": "Agency is a one page HTML theme for Bootstrap.",
+  "description": "Make Bitcoin Decentralized Again.",
   "keywords": [
     "css",
     "sass",
@@ -11,19 +11,19 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/agency",
+  "homepage": "https://btcgpu.com/",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "https://github.com/BTCGPU/website/issues",
+    "email": "feedback@btcgpu.com"
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
+  "author": "BTCGPU",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    "BTCGPU (https://btcgpu.com/)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+    "url": "https://github.com/BTCGPU/website.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
